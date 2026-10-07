@@ -1,6 +1,5 @@
 # Полный гайд по MQTT
 
-<a id="оглавление"></a>
 ## 📑 Оглавление
 
 - [1. Что такое MQTT и зачем он нужен](#1-что-такое-mqtt-и-зачем-он-нужен)
@@ -254,8 +253,9 @@ MQTT выигрывает за счёт минимального заголов�
 Это первоисточник, на который опираются все реализации протокола.
 
 - **MQTT Version 5.0 (OASIS Standard, 2019)** — актуальная версия спецификации, включающая улучшения по обработке ошибок, свойства сообщений и расширенную аутентификацию.
-  - [HTML (удобно для чтения)](https://docs.oasis-open.org/mqtt/mqtt/v5.0/os/mqtt-v5.0-os.html)
-  - [PDF](https://docs.oasis-open.org/mqtt/mqtt/v5.0/os/mqtt-v5.0-os.pdf)
+  - [Оригинал HTML](https://docs.oasis-open.org/mqtt/mqtt/v5.0/os/mqtt-v5.0-os.html)
+  - [Оригинал PDF](https://docs.oasis-open.org/mqtt/mqtt/v5.0/os/mqtt-v5.0-os.pdf)
+  - 📖 **[Неофициальный перевод на русский](specification/README.md)**
 
 - **MQTT Version 3.1.1 (OASIS Standard, 2014)** — широко распространённая и стабильная версия, до сих пор используемая во множестве устройств.
   - [HTML (удобно для чтения)](http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.html)
